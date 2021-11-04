@@ -1,0 +1,16 @@
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/obj/Debug/net5.0/Hello-World.csproj.AssemblyReference.cache
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/obj/Debug/net5.0/Hello-World.GeneratedMSBuildEditorConfig.editorconfig
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/obj/Debug/net5.0/Hello-World.AssemblyInfoInputs.cache
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/obj/Debug/net5.0/Hello-World.AssemblyInfo.cs
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/obj/Debug/net5.0/Hello-World.csproj.CoreCompileInputs.cache
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/bin/Debug/net5.0/Hello-World
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/bin/Debug/net5.0/Hello-World.deps.json
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/bin/Debug/net5.0/Hello-World.runtimeconfig.json
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/bin/Debug/net5.0/Hello-World.runtimeconfig.dev.json
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/bin/Debug/net5.0/Hello-World.dll
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/bin/Debug/net5.0/ref/Hello-World.dll
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/bin/Debug/net5.0/Hello-World.pdb
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/obj/Debug/net5.0/Hello-World.dll
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/obj/Debug/net5.0/ref/Hello-World.dll
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/obj/Debug/net5.0/Hello-World.pdb
+/home/devbox/Code/Leetcode/getting-started-c-sharp/Hello-World/obj/Debug/net5.0/Hello-World.genruntimeconfig.cache

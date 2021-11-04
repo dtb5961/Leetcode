@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ShowCase/1.0.0": {
+        "dependencies": {
+          "SumFunction": "1.0.0"
+        },
+        "runtime": {
+          "ShowCase.dll": {}
+        }
+      },
+      "SumFunction/1.0.0": {
+        "runtime": {
+          "SumFunction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShowCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SumFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

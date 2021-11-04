@@ -1,0 +1,12 @@
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/bin/Debug/net5.0/SumFunction.deps.json
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/bin/Debug/net5.0/SumFunction.dll
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/bin/Debug/net5.0/ref/SumFunction.dll
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/bin/Debug/net5.0/SumFunction.pdb
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/obj/Debug/net5.0/SumFunction.csproj.AssemblyReference.cache
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/obj/Debug/net5.0/SumFunction.GeneratedMSBuildEditorConfig.editorconfig
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/obj/Debug/net5.0/SumFunction.AssemblyInfoInputs.cache
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/obj/Debug/net5.0/SumFunction.AssemblyInfo.cs
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/obj/Debug/net5.0/SumFunction.csproj.CoreCompileInputs.cache
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/obj/Debug/net5.0/SumFunction.dll
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/obj/Debug/net5.0/ref/SumFunction.dll
+/home/devbox/Code/Leetcode/getting-started-c-sharp/SumFunction/obj/Debug/net5.0/SumFunction.pdb
